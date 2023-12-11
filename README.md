@@ -1,8 +1,10 @@
-# Disk-02-Reto-Scan
-1.	PROKA_1DPXProka_010nnnnn.dpx
-2.  PROKA_2DPXProka_020nnnnn.dpx
-3.	PROKA_3DPXProka_030nnnnn.dpx
-4.	PROKA_4DPXProka_040nnnnn.dpx
-5.	PROKA_5DPXProka_050nnnnn.dpx
-6.	PROKA_6DPXProka_060nnnnn.dpx
-
+# HDD_DPX_04_COPY (Disk-02-Reto-Scan - 3TB)
+-FROM: HDD_DPX_04
+  --FROM: cassette LTO-6 «AGM390» contenant les fichiers suivant:
+1. PROKA_1_DPX/Proka_010nnnnn.dpx
+2. PROKA_2_DPX/Proka_020nnnnn.dpx
+3. PROKA_3_DPX/Proka_030nnnnn.dpx
+4. PROKA_4_DPX/Proka_040nnnnn.dpx
+5. PROKA_5_DPX/Proka_050nnnnn.dpx
+6. PROKA_6_DPX/Proka_060nnnnn.dpx
+7. (avec leurs clefs de contrôle MD5)
