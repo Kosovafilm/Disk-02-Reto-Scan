@@ -1,4 +1,4 @@
-# HDD_DPX_04_COPY (Disk-02-Reto-Scan - 3TB)
+# HDD_DPX_04_COPY 
 -FROM: HDD_DPX_04
   --FROM: cassette LTO-6 «AGM390» contenant les fichiers suivant:
 1. PROKA_1_DPX/Proka_010nnnnn.dpx
